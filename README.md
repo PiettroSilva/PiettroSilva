@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💻 Cursando 1º ano de Curso Técnico de Informática
 - 👨‍💻 Aprendendo Python
 
-## Meus projetos
+## 📚 Meus projetos
 <br/>
 
 > Aqui na ETEC estamos aprendendo a usar o Python. É uma linguagem de programação muito boa para começar, porque tem sintaxe simples, além de grande versatilidade.
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
   Você pode acessar meus projetos [aqui](https://github.com/PiettroSilva/PiettroSilva/tree/main/Projetos)
 
-## Como me encontrar
+## 🔎 Como me encontrar
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
