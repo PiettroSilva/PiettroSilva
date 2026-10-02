@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-  Você pode acessar meus projetos com o link
+  Você pode acessar meus projetos [aqui](https://github.com/PiettroSilva/PiettroSilva/tree/main/Projetos)
 
 ## Como me encontrar
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
