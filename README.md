@@ -1,11 +1,10 @@
 ## 🤹‍♂️ Bem-vindo(a), eu sou o Piettro!
 
 <br/>
+
 - 🎓 Estudante da ETEC Alberto Santos Dumont
 - 💻 Cursando 1º ano de Curso Técnico de Informática
 - 👨‍💻 Aprendendo Python
-<br/>
-
 ## 📚 Meus projetos
 
 <br/>
@@ -15,11 +14,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
   Você pode acessar meus projetos [aqui](https://github.com/PiettroSilva/PiettroSilva/tree/main/Projetos)
-  
-<br/>
-
 ## 🔎 Como me encontrar
-
-<br/>
-
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)
